@@ -3,7 +3,7 @@
   "author": "123",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://mc-mods.2226.love",
+  "fileApi": "https://mods.2226.love",
   "files": [
     {
       "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
@@ -94,6 +94,10 @@
       "hash": "6a164013d692c209157d06e178bc43deb3e1d946"
     },
     {
+      "path": "mods/modflared-1.2.2+release.81.jar",
+      "hash": "13739434e6b1819cb46404b54e12eb2f3c00cf31"
+    },
+    {
       "path": "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "hash": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
     },
@@ -140,10 +144,6 @@
     {
       "path": "mods/threadtweak-1.21.1-NeoForge-1.0.0.jar",
       "hash": "0f247dcc81986cd4bc980af5f2ecd06e17d97ace"
-    },
-    {
-      "path": "servers.dat",
-      "hash": "8cb2d7380299f99b66f4a66962a4b848cb45c7bc"
     }
   ],
   "addons": [
