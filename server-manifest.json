@@ -1,7 +1,7 @@
 {
   "name": "MC-Forever",
   "author": "123",
-  "version": "1.1",
+  "version": "1.2",
   "description": "",
   "fileApi": "https://mods.2226.love",
   "files": [
@@ -12,10 +12,6 @@
     {
       "path": "mods/architectury-13.0.8-neoforge.jar",
       "hash": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
-    },
-    {
-      "path": "mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.91.jar",
-      "hash": "c858c8becfb5205eb12aaf0420eb82c307c2e6a7"
     },
     {
       "path": "mods/clientsort-neoforge-2.2.1+1.21.1.jar",
@@ -60,10 +56,6 @@
     {
       "path": "mods/ftb-teams-neoforge-2101.1.10.jar",
       "hash": "363376ae0fb22cb0527170fdf6a066d1da9b0225"
-    },
-    {
-      "path": "mods/ftb-ultimine-neoforge-2101.1.13.jar",
-      "hash": "c6ca0360843e5dbac57f3c01aa80fba5a0518553"
     },
     {
       "path": "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
