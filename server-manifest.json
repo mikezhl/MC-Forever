@@ -1,7 +1,7 @@
 {
   "name": "MC-Forever",
   "author": "123",
-  "version": "1.5",
+  "version": "1.5.1",
   "description": "",
   "fileApi": "https://mods.2226.love",
   "files": [
@@ -92,6 +92,10 @@
     {
       "path": "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
       "hash": "9fd5fa9076044180ae7f51672de74669196ec72e"
+    },
+    {
+      "path": "mods/mafglib-0.4.3+mc1.21.1.jar",
+      "hash": "9f62df832b1d5c9fe1aead873bd65cb8defacac7"
     },
     {
       "path": "mods/MaidUseHandCrank_1.5.4-neoforge_21.1.206-1.21.1.jar",
